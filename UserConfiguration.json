@@ -549,7 +549,11 @@
                 null,
                 null,
                 null,
-                null,
+                {
+                  "keyActionType": "keystroke",
+                  "type": "basic",
+                  "modifierMask": 4
+                },
                 {
                   "keyActionType": "switchLayer",
                   "layer": "mod",
